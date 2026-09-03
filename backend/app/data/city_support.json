@@ -1,0 +1,43 @@
+{
+  "messages": {
+    "supported": "该城市支持精细规划，可提供较高准确度的景点与路线建议。",
+    "beta": "该城市处于Beta支持阶段，可生成行程，但部分点位与预算可能需要人工微调。",
+    "unsupported": "该城市暂未纳入精细支持，系统将尝试基础规划，建议你在结果页重点校验景点位置与交通时长。"
+  },
+  "cities": {
+    "北京": {"level": "supported", "bounds": {"lat_min": 39.4, "lat_max": 41.1, "lng_min": 115.7, "lng_max": 117.4}},
+    "上海": {"level": "supported", "bounds": {"lat_min": 30.7, "lat_max": 31.9, "lng_min": 120.8, "lng_max": 122.2}},
+    "广州": {"level": "supported", "bounds": {"lat_min": 22.7, "lat_max": 23.8, "lng_min": 112.9, "lng_max": 114.0}},
+    "深圳": {"level": "supported", "bounds": {"lat_min": 22.4, "lat_max": 22.9, "lng_min": 113.7, "lng_max": 114.6}},
+    "成都": {"level": "supported", "bounds": {"lat_min": 30.4, "lat_max": 30.9, "lng_min": 103.9, "lng_max": 104.5}},
+    "杭州": {"level": "supported", "bounds": {"lat_min": 30.0, "lat_max": 30.5, "lng_min": 119.5, "lng_max": 120.5}},
+    "重庆": {"level": "supported", "bounds": {"lat_min": 29.3, "lat_max": 29.9, "lng_min": 106.2, "lng_max": 106.8}},
+    "武汉": {"level": "supported", "bounds": {"lat_min": 30.3, "lat_max": 31.0, "lng_min": 113.9, "lng_max": 114.6}},
+    "西安": {"level": "supported", "bounds": {"lat_min": 34.0, "lat_max": 34.5, "lng_min": 108.7, "lng_max": 109.2}},
+    "苏州": {"level": "supported", "bounds": {"lat_min": 31.1, "lat_max": 31.5, "lng_min": 120.3, "lng_max": 121.0}},
+    "天津": {"level": "supported", "bounds": {"lat_min": 38.9, "lat_max": 39.6, "lng_min": 116.9, "lng_max": 117.9}},
+    "南京": {"level": "supported", "bounds": {"lat_min": 31.9, "lat_max": 32.2, "lng_min": 118.4, "lng_max": 119.2}},
+    "长沙": {"level": "supported", "bounds": {"lat_min": 28.1, "lat_max": 28.4, "lng_min": 112.8, "lng_max": 113.2}},
+    "郑州": {"level": "supported", "bounds": {"lat_min": 34.4, "lat_max": 34.9, "lng_min": 113.4, "lng_max": 113.9}},
+    "厦门": {"level": "supported", "bounds": {"lat_min": 24.4, "lat_max": 24.6, "lng_min": 118.0, "lng_max": 118.2}},
+    "青岛": {"level": "supported", "bounds": {"lat_min": 35.9, "lat_max": 36.4, "lng_min": 119.9, "lng_max": 120.7}},
+    "大连": {"level": "supported", "bounds": {"lat_min": 38.7, "lat_max": 39.2, "lng_min": 121.3, "lng_max": 122.0}},
+    "三亚": {"level": "supported", "bounds": {"lat_min": 18.1, "lat_max": 18.4, "lng_min": 109.3, "lng_max": 109.7}},
+    "丽江": {"level": "supported", "bounds": {"lat_min": 26.8, "lat_max": 27.2, "lng_min": 100.1, "lng_max": 100.5}},
+    "桂林": {"level": "supported", "bounds": {"lat_min": 25.1, "lat_max": 25.5, "lng_min": 110.1, "lng_max": 110.6}},
+    "昆明": {"level": "supported", "bounds": {"lat_min": 24.7, "lat_max": 25.3, "lng_min": 102.5, "lng_max": 103.1}},
+    "哈尔滨": {"level": "supported", "bounds": {"lat_min": 45.5, "lat_max": 46.0, "lng_min": 126.4, "lng_max": 127.1}},
+    "沈阳": {"level": "supported", "bounds": {"lat_min": 41.5, "lat_max": 42.0, "lng_min": 123.2, "lng_max": 123.8}},
+    "济南": {"level": "supported", "bounds": {"lat_min": 36.5, "lat_max": 36.8, "lng_min": 116.8, "lng_max": 117.3}},
+    "黄山": {"level": "supported", "bounds": {"lat_min": 29.8, "lat_max": 30.2, "lng_min": 118.1, "lng_max": 118.5}},
+    "张家界": {"level": "supported", "bounds": {"lat_min": 28.9, "lat_max": 29.3, "lng_min": 110.2, "lng_max": 110.7}},
+    "敦煌": {"level": "supported", "bounds": {"lat_min": 39.8, "lat_max": 40.3, "lng_min": 94.4, "lng_max": 95.1}},
+    "拉萨": {"level": "supported", "bounds": {"lat_min": 29.5, "lat_max": 30.0, "lng_min": 90.9, "lng_max": 91.5}},
+    "乌鲁木齐": {"level": "supported", "bounds": {"lat_min": 43.7, "lat_max": 44.2, "lng_min": 87.4, "lng_max": 88.0}},
+    "宁波": {"level": "supported", "bounds": {"lat_min": 29.8, "lat_max": 30.0, "lng_min": 121.3, "lng_max": 121.8}},
+    "石家庄": {"level": "beta", "bounds": null},
+    "温州": {"level": "beta", "bounds": null},
+    "福州": {"level": "beta", "bounds": null},
+    "南昌": {"level": "beta", "bounds": null}
+  }
+}
