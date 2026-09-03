@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 智能旅行规划系统 Trip Planner
 
 > 一个基于 HelloAgents 多智能体协作的智能行程规划 Web 应用。
@@ -186,3 +187,7 @@ MIT License
 ## 🙏 致谢
 
 感谢 Datawhale 社区和 Hello-Agents 项目。
+=======
+# WayfinderAI
+智能旅行助手
+>>>>>>> cd36343df12355f58825c0357f7a39fa73009ff0
